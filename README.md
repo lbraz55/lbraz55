@@ -1,78 +1,72 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            color: #333;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 1em;
-            text-align: center;
-        }
-        section {
-            padding: 2em;
-            margin: 1em;
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #4CAF50;
-        }
-        h2 {
-            border-bottom: 2px solid #4CAF50;
-            padding-bottom: 0.5em;
-            margin-bottom: 1em;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-    </style>
-</head>
-<body>
-<header>
-    <h1>Luis Braz</h1>
-    <p>PORTIFOLIO ACADEMICO</p>
-</header>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0E7490&height=170&section=header&text=Luís%20Braz&fontSize=44&fontColor=E6EDF3&fontAlignY=38&desc=Análise%20de%20Dados%20·%20SQL%20·%20Python&descAlignY=60&descSize=16" alt="Banner Luís Braz" />
+</p>
 
-<div class="container">
-    <section id="about-me">
-        <h2>Sobre Mim</h2>
-        <p>Olá! Meu nome é Luis. Tenho 19 anos e gosto muito de programaçao. No momento estou cursando TADS(Analise e Desenvolvimento de Sistemas).</p>
-    </section>
-    <section id="professional-experience">
-        <h2>Experiência Profissional</h2>
-        <ul>
-            <li>
-                <h3>ESTAGIARIO - CAIXA ECONOMICA FEDERAL</h3>
-                <p>06/2024 - atual</p>
-                <p>Estagiei atuando na area de analise de dados, a onde eu tenho que construir tabelas, manipular e levar as informaçoes desejadas para o meu gestor.</p>
-            </li>
-            <!-- Adicione mais experiências conforme necessário -->
-        </ul>
-    </section>
-    <section id="education">
-        <h2>Formação Acadêmica</h2>
-        <ul>
-            <li>
-                <h3>Analise e Desenvolvimento de Sistemas - UNIDESC</h3>
-                <p>2025</p>
-                <p></p>
-            </li>
-            <!-- Adicione mais formações conforme necessário -->
-        </ul>
-    </section>
-</div>
-</body>
-</html>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gleysson-lu%C3%ADs-braz-gomes-oliveira-119638244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gleyssonluis3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <img src="https://img.shields.io/badge/Aberto%20a%20vagas-Júnior%20em%20Dados-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Aberto a vagas" />
+</p>
 
+---
+
+##  Sobre mim
+
+Sou **Gleysson Luís Braz** — pode me chamar de **Luís**.
+
+Busco minha primeira posição como **Analista de Dados Júnior**. Gosto de pegar uma pergunta de negócio, escrever a consulta certa e transformar o resultado em algo que alguém consiga usar para decidir.
+
+-  **Foco:** consultas SQL, tratamento de dados com Python e organização de projetos com Git
+-  **Base técnica:** lógica de programação e orientação a objetos com Java
+-  **Procuro:** vaga júnior ou estágio em dados, onde eu possa aprender com um time e entregar desde o primeiro mês
+
+---
+
+##  Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<!-- Quando começar a usar, descomente e adicione:
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+-->
+
+---
+
+## 📊 GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lbraz55&show_icons=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbraz55&layout=compact&langs_count=6&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lbraz55&locale=pt_BR&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Sequência de contribuições" />
+</p>
+
+---
+
+## 📌 Projetos
+
+Os projetos fixados logo abaixo mostram como eu trabalho: cada repositório tem um README com **objetivo, dados usados, abordagem e principais conclusões**.
+
+---
+
+<p align="center">
+  <i>Vamos conversar? Respondo pelo LinkedIn ou por e-mail.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:0D1117&height=100&section=footer" width="100%" alt="" />
